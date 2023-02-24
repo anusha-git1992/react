@@ -1,0 +1,11 @@
+#demo1{
+    width: 200px;
+    height: 200px;
+    /* background-color: #762317; */
+   /*  background-color:rgba(200, 69, 120, 0.9); */
+   /* background-color: hsl(120, 100%, 60%); */
+   /* background-image: linear-gradient(to right,red,blue,purple,yellow); */
+ /* background-image: linear-gradient(to left ,yellow,green,black,yellow,blue,pink);    */
+     background-image: linear-gradient(red 10%,green 12%,yellow 1% );
+     border: 5px solid red; 
+}
